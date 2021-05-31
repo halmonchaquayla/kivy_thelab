@@ -8,4 +8,4 @@ class MainWidget(Widget):
 class TheLabApp(App):
     pass
 
-TheLabApp().run()
+# TheLabApp().run()
